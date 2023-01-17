@@ -247,3 +247,4 @@ Added comprehensive test coverage - build 332
 Fixed code formatting issues - 761
 Added comprehensive test coverage - build 711
 Refactored code for better maintainability - 462
+Fixed typo in documentation - v2.5.0
