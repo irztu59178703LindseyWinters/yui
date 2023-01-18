@@ -1453,3 +1453,4 @@ Updated dependencies to latest versions - v3.8.6
 Fixed typo in documentation - build 409
 Fixed critical bug in main module - v5.9.8
 Updated README with new instructions - 206
+Refactored code for better maintainability
