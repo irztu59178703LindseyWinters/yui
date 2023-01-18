@@ -1454,3 +1454,4 @@ Fixed typo in documentation - build 409
 Fixed critical bug in main module - v5.9.8
 Updated README with new instructions - 206
 Refactored code for better maintainability
+Fixed memory management issue - 420
