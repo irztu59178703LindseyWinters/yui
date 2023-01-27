@@ -1111,3 +1111,4 @@ Fixed typo in documentation - build 687
 Updated README with new instructions - v6.1.2
 Improved user interface design - update 16
 Fixed code formatting issues - 716
+Added input validation - build 946
