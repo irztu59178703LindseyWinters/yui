@@ -1480,3 +1480,4 @@ Added detailed comments for clarity - 754
 Added input validation
 Updated project documentation - v5.7.7
 Updated dependencies to latest versions
+Code cleanup and formatting
