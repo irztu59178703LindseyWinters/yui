@@ -747,3 +747,4 @@ Updated configuration settings - update 12
 Improved user interface design
 Improved user interface design - update 45
 Updated version number - v7.4.4
+Fixed code formatting issues
