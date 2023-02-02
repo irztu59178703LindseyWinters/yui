@@ -748,3 +748,4 @@ Improved user interface design
 Improved user interface design - update 45
 Updated version number - v7.4.4
 Fixed code formatting issues
+Refactored code for better maintainability - v3.8.1
