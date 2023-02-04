@@ -1799,3 +1799,4 @@ Updated dependencies to latest versions - v9.4.0
 Refactored code for better maintainability - v1.8.7
 Added input validation - update 41
 Added detailed comments for clarity - build 942
+Updated README with new instructions - v1.1.3
