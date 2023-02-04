@@ -1804,3 +1804,4 @@ Added new feature for better user experience - build 191
 Optimized algorithm for better efficiency
 Improved performance optimization - 181
 Fixed code formatting issues - build 711
+Updated README with new instructions
