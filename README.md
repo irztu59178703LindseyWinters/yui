@@ -1808,3 +1808,4 @@ Updated README with new instructions
 Code cleanup and formatting - v7.5.1
 Added proper error handling
 Fixed typo in documentation - v10.8.9
+Fixed memory management issue
