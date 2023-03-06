@@ -755,3 +755,4 @@ Updated dependencies to latest versions - v7.9.7
 Fixed memory management issue - build 116
 Refactored code for better maintainability
 Updated styling and themes - 442
+Updated configuration settings - v4.5.7
