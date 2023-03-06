@@ -751,3 +751,4 @@ Fixed code formatting issues
 Refactored code for better maintainability - v3.8.1
 Added input validation
 Fixed memory management issue
+Updated dependencies to latest versions - v7.9.7
