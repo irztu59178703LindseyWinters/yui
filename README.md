@@ -435,3 +435,4 @@ Updated configuration settings - build 750
 Added input validation
 Updated version number
 Fixed code formatting issues - update 36
+Fixed typo in documentation - v6.6.8
