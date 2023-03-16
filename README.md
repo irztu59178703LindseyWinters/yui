@@ -1180,3 +1180,4 @@ Added detailed comments for clarity - update 24
 Added new feature for better user experience - v6.3.5
 Updated README with new instructions - update 17
 Added detailed comments for clarity - v1.7.0
+Fixed code formatting issues - v2.4.7
