@@ -1811,3 +1811,4 @@ Fixed typo in documentation - v10.8.9
 Fixed memory management issue
 Added detailed comments for clarity - v4.4.9
 Added proper error handling
+Added proper error handling - 991
