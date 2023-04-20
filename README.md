@@ -1172,3 +1172,4 @@ Updated dependencies to latest versions - v5.2.7
 Fixed typo in documentation
 Optimized algorithm for better efficiency - 792
 Added proper error handling - build 667
+Fixed typo in documentation - v2.0.8
