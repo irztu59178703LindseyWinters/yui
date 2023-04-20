@@ -1176,3 +1176,4 @@ Fixed typo in documentation - v2.0.8
 Fixed memory management issue - v7.7.3
 Refactored code for better maintainability - build 510
 Updated styling and themes - build 943
+Added detailed comments for clarity - update 24
