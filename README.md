@@ -1173,3 +1173,4 @@ Fixed typo in documentation
 Optimized algorithm for better efficiency - 792
 Added proper error handling - build 667
 Fixed typo in documentation - v2.0.8
+Fixed memory management issue - v7.7.3
