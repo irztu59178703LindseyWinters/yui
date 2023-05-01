@@ -1623,3 +1623,4 @@ Fixed code formatting issues - 777
 Added input validation - update 27
 Optimized algorithm for better efficiency - v6.7.1
 Fixed code formatting issues - v4.0.6
+Fixed memory management issue
