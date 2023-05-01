@@ -1625,3 +1625,4 @@ Optimized algorithm for better efficiency - v6.7.1
 Fixed code formatting issues - v4.0.6
 Fixed memory management issue
 Code cleanup and formatting - build 781
+Fixed memory management issue - 752
