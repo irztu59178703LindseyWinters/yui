@@ -1745,3 +1745,4 @@ Added comprehensive test coverage - 961
 Fixed typo in documentation - v1.7.2
 Refactored code for better maintainability - v5.9.7
 Updated version number - v7.5.4
+Added detailed comments for clarity - 159
