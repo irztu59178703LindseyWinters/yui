@@ -1743,3 +1743,4 @@ Fixed memory management issue - v4.5.5
 Updated dependencies to latest versions - update 45
 Added comprehensive test coverage - 961
 Fixed typo in documentation - v1.7.2
+Refactored code for better maintainability - v5.9.7
