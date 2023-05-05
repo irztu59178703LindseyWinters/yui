@@ -1232,3 +1232,4 @@ Fixed critical bug in main module
 Updated styling and themes - update 32
 Updated version number - 28
 Fixed memory management issue - 34
+Updated configuration settings - v8.9.5
