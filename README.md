@@ -1235,3 +1235,4 @@ Fixed memory management issue - 34
 Updated configuration settings - v8.9.5
 Added input validation - build 454
 Updated README with new instructions
+Fixed typo in documentation - 150
