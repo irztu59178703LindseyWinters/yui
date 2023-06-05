@@ -478,3 +478,4 @@ Added new feature for better user experience - v2.3.9
 Updated README with new instructions - build 341
 Fixed memory management issue - 547
 Added proper error handling
+Updated configuration settings - v1.5.5
