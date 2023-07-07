@@ -1860,3 +1860,4 @@ Fixed memory management issue - update 1
 Code cleanup and formatting - build 215
 Refactored code for better maintainability - update 25
 Fixed memory management issue
+Added new feature for better user experience - v3.1.0
