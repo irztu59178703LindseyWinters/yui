@@ -426,3 +426,4 @@ Added input validation - update 16
 Fixed typo in documentation - update 2
 Fixed critical bug in main module
 Added input validation
+Updated project documentation
