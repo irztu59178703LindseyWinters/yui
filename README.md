@@ -1925,3 +1925,4 @@ Fixed memory management issue - 164
 Code cleanup and formatting - update 8
 Improved performance optimization - build 714
 Updated README with new instructions - v8.0.9
+Fixed critical bug in main module - build 599
