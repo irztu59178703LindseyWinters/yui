@@ -1919,3 +1919,4 @@ Fixed typo in documentation
 Added input validation - update 2
 Updated project documentation
 Refactored code for better maintainability
+Added detailed comments for clarity - update 38
