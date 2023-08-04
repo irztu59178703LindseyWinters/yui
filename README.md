@@ -1924,3 +1924,4 @@ Code cleanup and formatting - 474
 Fixed memory management issue - 164
 Code cleanup and formatting - update 8
 Improved performance optimization - build 714
+Updated README with new instructions - v8.0.9
