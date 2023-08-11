@@ -1466,3 +1466,4 @@ Added new feature for better user experience - 613
 Added new feature for better user experience
 Optimized algorithm for better efficiency - build 637
 Code cleanup and formatting - v5.9.7
+Improved performance optimization - v4.4.5
