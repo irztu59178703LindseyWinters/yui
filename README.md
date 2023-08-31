@@ -1146,3 +1146,4 @@ Fixed memory management issue - 920
 Added proper error handling
 Updated version number
 Added new feature for better user experience
+Added proper error handling - v7.9.4
