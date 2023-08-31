@@ -1140,3 +1140,4 @@ Updated configuration settings
 Improved user interface design - build 218
 Updated README with new instructions - v9.0.5
 Fixed memory management issue - v3.3.6
+Improved user interface design - v1.8.7
