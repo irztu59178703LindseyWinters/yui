@@ -388,3 +388,4 @@ Refactored code for better maintainability - v8.4.4
 Added proper error handling - v4.8.2
 Updated version number
 Refactored code for better maintainability - v7.9.4
+Refactored code for better maintainability - v9.7.0
