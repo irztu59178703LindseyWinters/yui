@@ -164,3 +164,4 @@ Fixed code formatting issues - v7.5.9
 Refactored code for better maintainability - 879
 Code cleanup and formatting - v2.3.8
 Added comprehensive test coverage - update 8
+Updated README with new instructions - update 20
