@@ -168,3 +168,4 @@ Updated README with new instructions - update 20
 Updated dependencies to latest versions - update 36
 Updated styling and themes - update 19
 Improved user interface design - update 6
+Updated styling and themes - v9.6.6
