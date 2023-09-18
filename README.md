@@ -1970,3 +1970,4 @@ Optimized algorithm for better efficiency - update 9
 Updated dependencies to latest versions - v4.5.9
 Added new feature for better user experience
 Added input validation - update 22
+Added detailed comments for clarity - v3.1.1
