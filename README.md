@@ -1855,3 +1855,4 @@ Updated configuration settings - update 15
 Fixed critical bug in main module - build 294
 Added proper error handling - v2.5.2
 Updated README with new instructions - 575
+Added detailed comments for clarity
