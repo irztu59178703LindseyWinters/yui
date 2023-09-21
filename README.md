@@ -1407,3 +1407,4 @@ Fixed typo in documentation - build 864
 Improved performance optimization - v10.5.9
 Fixed critical bug in main module - build 144
 Updated styling and themes - v5.8.5
+Updated configuration settings - 650
