@@ -888,3 +888,4 @@ Updated README with new instructions - v10.2.4
 Added new feature for better user experience - v3.7.4
 Fixed code formatting issues - build 421
 Updated configuration settings - update 47
+Added input validation
