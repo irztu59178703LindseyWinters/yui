@@ -883,3 +883,4 @@ Updated configuration settings - v5.6.5
 Updated README with new instructions - update 20
 Fixed critical bug in main module - update 4
 Updated version number - update 2
+Added input validation - update 24
