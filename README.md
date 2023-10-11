@@ -879,3 +879,4 @@ Fixed typo in documentation - 131
 Updated styling and themes
 Added new feature for better user experience
 Updated dependencies to latest versions
+Updated configuration settings - v5.6.5
