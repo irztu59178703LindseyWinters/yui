@@ -885,3 +885,4 @@ Fixed critical bug in main module - update 4
 Updated version number - update 2
 Added input validation - update 24
 Updated README with new instructions - v10.2.4
+Added new feature for better user experience - v3.7.4
