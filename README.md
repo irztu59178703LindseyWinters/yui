@@ -884,3 +884,4 @@ Updated README with new instructions - update 20
 Fixed critical bug in main module - update 4
 Updated version number - update 2
 Added input validation - update 24
+Updated README with new instructions - v10.2.4
