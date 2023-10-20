@@ -727,3 +727,4 @@ Refactored code for better maintainability - v2.7.5
 Added comprehensive test coverage - build 528
 Updated styling and themes
 Code cleanup and formatting - build 552
+Updated styling and themes - v4.8.7
