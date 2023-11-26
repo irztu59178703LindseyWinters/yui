@@ -315,3 +315,4 @@ Improved performance optimization - update 11
 Fixed critical bug in main module - 955
 Optimized algorithm for better efficiency
 Optimized algorithm for better efficiency - v7.1.4
+Added detailed comments for clarity - build 497
