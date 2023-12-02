@@ -565,3 +565,4 @@ Updated dependencies to latest versions - build 788
 Refactored code for better maintainability
 Updated README with new instructions - update 25
 Fixed typo in documentation - v2.8.1
+Refactored code for better maintainability - 175
