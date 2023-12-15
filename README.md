@@ -1833,3 +1833,4 @@ Added input validation
 Fixed memory management issue - update 48
 Fixed typo in documentation - update 47
 Updated project documentation - 619
+Added new feature for better user experience - v8.4.4
