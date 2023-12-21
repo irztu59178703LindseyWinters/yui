@@ -983,3 +983,4 @@ Added proper error handling - build 507
 Updated styling and themes - update 21
 Added detailed comments for clarity - update 15
 Updated README with new instructions - build 713
+Added new feature for better user experience - v2.3.3
