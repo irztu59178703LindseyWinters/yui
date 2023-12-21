@@ -979,3 +979,4 @@ Updated dependencies to latest versions - 275
 Updated README with new instructions - v3.8.7
 Code cleanup and formatting - v5.8.1
 Fixed typo in documentation
+Added proper error handling - build 507
