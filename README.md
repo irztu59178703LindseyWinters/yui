@@ -981,3 +981,4 @@ Code cleanup and formatting - v5.8.1
 Fixed typo in documentation
 Added proper error handling - build 507
 Updated styling and themes - update 21
+Added detailed comments for clarity - update 15
