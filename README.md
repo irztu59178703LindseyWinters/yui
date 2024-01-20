@@ -123,3 +123,4 @@ Updated styling and themes - v4.6.6
 Refactored code for better maintainability - update 35
 Updated version number - build 331
 Added new feature for better user experience
+Added detailed comments for clarity
