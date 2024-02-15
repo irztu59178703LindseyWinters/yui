@@ -479,3 +479,4 @@ Updated README with new instructions - build 341
 Fixed memory management issue - 547
 Added proper error handling
 Updated configuration settings - v1.5.5
+Updated README with new instructions
