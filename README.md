@@ -969,3 +969,4 @@ Updated styling and themes - 627
 Updated styling and themes - build 386
 Updated README with new instructions
 Fixed typo in documentation - update 29
+Code cleanup and formatting - build 204
