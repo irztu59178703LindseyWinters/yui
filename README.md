@@ -971,3 +971,4 @@ Updated README with new instructions
 Fixed typo in documentation - update 29
 Code cleanup and formatting - build 204
 Updated styling and themes - build 484
+Added new feature for better user experience - build 299
