@@ -831,3 +831,4 @@ Updated dependencies to latest versions - update 44
 Added input validation - v8.5.4
 Updated dependencies to latest versions - 487
 Updated project documentation
+Improved user interface design
