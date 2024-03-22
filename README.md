@@ -237,3 +237,4 @@ Fixed code formatting issues - build 570
 Updated styling and themes - update 19
 Code cleanup and formatting - 160
 Updated version number - build 802
+Code cleanup and formatting - v8.9.1
