@@ -956,3 +956,4 @@ Updated README with new instructions - build 556
 Updated version number
 Added input validation
 Refactored code for better maintainability - build 578
+Added proper error handling
