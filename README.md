@@ -951,3 +951,4 @@ Refactored code for better maintainability - 678
 Updated configuration settings - build 539
 Code cleanup and formatting
 Fixed critical bug in main module - update 29
+Fixed memory management issue - v10.2.5
