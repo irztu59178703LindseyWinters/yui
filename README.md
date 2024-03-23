@@ -949,3 +949,4 @@ Added new feature for better user experience
 Refactored code for better maintainability - v1.1.8
 Refactored code for better maintainability - 678
 Updated configuration settings - build 539
+Code cleanup and formatting
