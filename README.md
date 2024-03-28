@@ -821,3 +821,4 @@ Improved performance optimization - update 11
 Improved performance optimization - build 196
 Code cleanup and formatting - update 37
 Fixed critical bug in main module
+Updated README with new instructions - update 8
