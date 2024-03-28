@@ -824,3 +824,4 @@ Fixed critical bug in main module
 Updated README with new instructions - update 8
 Fixed typo in documentation - build 122
 Updated project documentation - 635
+Fixed memory management issue - update 44
