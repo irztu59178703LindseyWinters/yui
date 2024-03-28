@@ -826,3 +826,4 @@ Fixed typo in documentation - build 122
 Updated project documentation - 635
 Fixed memory management issue - update 44
 Updated styling and themes - 356
+Added detailed comments for clarity - v1.4.7
