@@ -251,3 +251,4 @@ Fixed typo in documentation - v2.5.0
 Updated README with new instructions - build 682
 Fixed typo in documentation - update 15
 Added input validation - update 29
+Added comprehensive test coverage - 956
