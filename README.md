@@ -69,3 +69,4 @@ Refactored code for better maintainability - build 929
 Code cleanup and formatting - update 33
 Fixed typo in documentation - 66
 Updated version number - v9.9.7
+Added new feature for better user experience - v9.8.7
