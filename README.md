@@ -75,3 +75,4 @@ Added new feature for better user experience
 Improved user interface design - v7.1.0
 Added input validation
 Updated project documentation - v7.6.1
+Updated project documentation - update 36
