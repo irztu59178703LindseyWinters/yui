@@ -73,3 +73,4 @@ Added new feature for better user experience - v9.8.7
 Fixed typo in documentation
 Added new feature for better user experience
 Improved user interface design - v7.1.0
+Added input validation
