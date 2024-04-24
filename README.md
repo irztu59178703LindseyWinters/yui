@@ -1544,3 +1544,4 @@ Updated dependencies to latest versions
 Updated README with new instructions - 372
 Added proper error handling - update 3
 Updated version number
+Updated styling and themes
