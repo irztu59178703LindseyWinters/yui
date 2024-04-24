@@ -1541,3 +1541,4 @@ Code cleanup and formatting - 891
 Refactored code for better maintainability - v2.4.4
 Fixed code formatting issues - update 48
 Updated dependencies to latest versions
+Updated README with new instructions - 372
