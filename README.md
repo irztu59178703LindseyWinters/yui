@@ -201,3 +201,4 @@ Improved performance optimization - 265
 Optimized algorithm for better efficiency
 Added input validation - v10.5.4
 Code cleanup and formatting - v8.4.5
+Updated README with new instructions - build 869
