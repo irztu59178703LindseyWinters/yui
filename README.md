@@ -205,3 +205,4 @@ Updated README with new instructions - build 869
 Updated dependencies to latest versions - update 25
 Updated configuration settings - 462
 Updated dependencies to latest versions - build 236
+Code cleanup and formatting
