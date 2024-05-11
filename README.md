@@ -113,3 +113,4 @@ Added proper error handling - build 369
 Updated version number - v5.2.7
 Added proper error handling - build 230
 Added detailed comments for clarity - 649
+Refactored code for better maintainability - 96
