@@ -1252,3 +1252,4 @@ Updated configuration settings - 710
 Added detailed comments for clarity - build 614
 Updated configuration settings - 180
 Added detailed comments for clarity - v10.1.1
+Fixed memory management issue - v8.0.9
