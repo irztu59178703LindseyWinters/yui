@@ -1255,3 +1255,4 @@ Added detailed comments for clarity - v10.1.1
 Fixed memory management issue - v8.0.9
 Code cleanup and formatting
 Updated styling and themes - v2.8.4
+Updated README with new instructions - v2.1.6
