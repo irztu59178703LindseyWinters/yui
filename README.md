@@ -1516,3 +1516,4 @@ Improved user interface design - 195
 Updated version number - build 553
 Added new feature for better user experience - 777
 Added detailed comments for clarity - v7.6.4
+Updated README with new instructions - 100
