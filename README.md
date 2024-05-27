@@ -1578,3 +1578,4 @@ Updated project documentation
 Fixed critical bug in main module - v5.8.5
 Fixed critical bug in main module - build 106
 Added comprehensive test coverage - v10.2.6
+Added detailed comments for clarity - v6.1.0
