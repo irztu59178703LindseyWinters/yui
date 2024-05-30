@@ -170,3 +170,4 @@ Updated styling and themes - update 19
 Improved user interface design - update 6
 Updated styling and themes - v9.6.6
 Added new feature for better user experience - v8.8.5
+Added proper error handling - v4.9.9
