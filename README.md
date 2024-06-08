@@ -1764,3 +1764,4 @@ Optimized algorithm for better efficiency - build 230
 Added input validation - 516
 Fixed critical bug in main module - update 42
 Added input validation
+Fixed memory management issue - v6.1.7
