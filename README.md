@@ -1765,3 +1765,4 @@ Added input validation - 516
 Fixed critical bug in main module - update 42
 Added input validation
 Fixed memory management issue - v6.1.7
+Updated README with new instructions - build 722
