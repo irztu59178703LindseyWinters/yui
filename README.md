@@ -1597,3 +1597,4 @@ Added input validation - v9.4.4
 Optimized algorithm for better efficiency - build 981
 Optimized algorithm for better efficiency - v9.3.1
 Updated dependencies to latest versions - v8.0.4
+Fixed memory management issue - v8.0.8
