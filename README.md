@@ -1590,3 +1590,4 @@ Optimized algorithm for better efficiency - build 959
 Fixed critical bug in main module - build 710
 Refactored code for better maintainability - build 860
 Improved user interface design - v2.4.9
+Updated README with new instructions - 693
