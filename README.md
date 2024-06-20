@@ -1703,3 +1703,4 @@ Added new feature for better user experience - build 993
 Added new feature for better user experience
 Fixed code formatting issues - v10.4.4
 Fixed code formatting issues - build 142
+Updated README with new instructions - update 49
