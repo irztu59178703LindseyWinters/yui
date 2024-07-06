@@ -1475,3 +1475,4 @@ Added detailed comments for clarity - 920
 Fixed typo in documentation - 711
 Fixed code formatting issues - 143
 Refactored code for better maintainability - v6.4.5
+Updated README with new instructions - v4.7.5
