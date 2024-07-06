@@ -1471,3 +1471,4 @@ Fixed critical bug in main module - build 565
 Code cleanup and formatting - build 129
 Fixed critical bug in main module - v5.0.5
 Fixed critical bug in main module - v6.4.1
+Added detailed comments for clarity - 920
