@@ -19,3 +19,4 @@ Updated dependencies to latest versions - build 556
 Improved user interface design - build 797
 Updated version number
 Fixed memory management issue - v2.9.9
+Added input validation - v6.5.6
