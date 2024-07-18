@@ -28,3 +28,4 @@ Updated configuration settings - update 5
 Updated version number - update 11
 Updated README with new instructions
 Fixed code formatting issues
+Updated dependencies to latest versions - 710
