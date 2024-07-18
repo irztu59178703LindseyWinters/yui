@@ -26,3 +26,4 @@ Improved performance optimization - update 38
 Updated version number - 101
 Updated configuration settings - update 5
 Updated version number - update 11
+Updated README with new instructions
