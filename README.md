@@ -179,3 +179,4 @@ Refactored code for better maintainability - update 14
 Updated project documentation - 123
 Added input validation - build 112
 Fixed critical bug in main module - update 25
+Updated README with new instructions
