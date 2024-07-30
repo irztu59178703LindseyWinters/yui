@@ -185,3 +185,4 @@ Fixed code formatting issues - v4.6.6
 Updated version number - update 4
 Updated README with new instructions - 898
 Updated project documentation
+Improved user interface design - 169
