@@ -1100,3 +1100,4 @@ Added new feature for better user experience
 Optimized algorithm for better efficiency - build 194
 Updated version number
 Fixed memory management issue
+Updated README with new instructions - v5.5.7
