@@ -1530,3 +1530,4 @@ Updated configuration settings - update 19
 Updated version number - 787
 Code cleanup and formatting - 619
 Refactored code for better maintainability
+Updated project documentation - v8.7.3
