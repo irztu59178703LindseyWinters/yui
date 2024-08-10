@@ -1531,3 +1531,4 @@ Updated version number - 787
 Code cleanup and formatting - 619
 Refactored code for better maintainability
 Updated project documentation - v8.7.3
+Fixed critical bug in main module
