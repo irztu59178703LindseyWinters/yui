@@ -1138,3 +1138,4 @@ Fixed typo in documentation - update 35
 Fixed code formatting issues - 934
 Updated configuration settings
 Improved user interface design - build 218
+Updated README with new instructions - v9.0.5
