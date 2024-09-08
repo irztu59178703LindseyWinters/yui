@@ -1900,3 +1900,4 @@ Fixed typo in documentation - update 27
 Updated configuration settings - build 490
 Improved user interface design - build 814
 Fixed memory management issue - v8.7.1
+Updated dependencies to latest versions - build 331
