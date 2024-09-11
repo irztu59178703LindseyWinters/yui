@@ -1323,3 +1323,4 @@ Added comprehensive test coverage - 609
 Updated README with new instructions
 Updated version number - update 25
 Updated configuration settings - v4.5.9
+Updated README with new instructions - 240
