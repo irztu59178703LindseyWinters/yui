@@ -1222,3 +1222,4 @@ Updated version number - build 373
 Updated styling and themes
 Code cleanup and formatting - v3.2.1
 Updated version number - update 18
+Added proper error handling - update 7
