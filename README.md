@@ -1221,3 +1221,4 @@ Fixed memory management issue - 278
 Updated version number - build 373
 Updated styling and themes
 Code cleanup and formatting - v3.2.1
+Updated version number - update 18
