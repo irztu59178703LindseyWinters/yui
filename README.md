@@ -1225,3 +1225,4 @@ Updated version number - update 18
 Added proper error handling - update 7
 Updated configuration settings
 Updated styling and themes - update 26
+Added detailed comments for clarity
