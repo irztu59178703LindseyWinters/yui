@@ -1289,3 +1289,4 @@ Fixed code formatting issues - 557
 Improved user interface design - v4.3.7
 Fixed typo in documentation - v5.4.4
 Added input validation - 698
+Added proper error handling - v8.9.8
