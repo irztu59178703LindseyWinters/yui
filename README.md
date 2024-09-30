@@ -35,3 +35,4 @@ Fixed critical bug in main module - update 38
 Updated styling and themes - update 22
 Updated project documentation - 909
 Updated version number - update 34
+Fixed code formatting issues - update 38
