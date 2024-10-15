@@ -595,3 +595,4 @@ Updated configuration settings - v2.7.9
 Code cleanup and formatting - update 15
 Code cleanup and formatting - update 11
 Fixed typo in documentation - v4.1.4
+Fixed memory management issue - update 25
