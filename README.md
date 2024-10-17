@@ -148,3 +148,4 @@ Updated README with new instructions - 709
 Updated version number - build 455
 Added new feature for better user experience - v5.4.8
 Improved performance optimization - 490
+Fixed code formatting issues
