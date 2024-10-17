@@ -144,3 +144,4 @@ Fixed memory management issue
 Optimized algorithm for better efficiency
 Improved user interface design
 Updated project documentation
+Updated README with new instructions - 709
