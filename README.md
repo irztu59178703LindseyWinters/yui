@@ -98,3 +98,4 @@ Updated styling and themes - v1.4.3
 Refactored code for better maintainability - update 50
 Code cleanup and formatting - v4.8.1
 Added new feature for better user experience - update 17
+Fixed memory management issue - update 38
