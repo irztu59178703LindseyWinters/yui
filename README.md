@@ -94,3 +94,4 @@ Fixed typo in documentation
 Fixed typo in documentation
 Refactored code for better maintainability
 Updated project documentation - build 718
+Updated styling and themes - v1.4.3
