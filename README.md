@@ -91,3 +91,4 @@ Updated styling and themes - update 49
 Updated project documentation
 Updated configuration settings
 Fixed typo in documentation
+Fixed typo in documentation
