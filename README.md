@@ -89,3 +89,4 @@ Updated styling and themes
 Fixed critical bug in main module - 205
 Updated styling and themes - update 49
 Updated project documentation
+Updated configuration settings
