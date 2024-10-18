@@ -96,3 +96,4 @@ Refactored code for better maintainability
 Updated project documentation - build 718
 Updated styling and themes - v1.4.3
 Refactored code for better maintainability - update 50
+Code cleanup and formatting - v4.8.1
