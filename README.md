@@ -1758,3 +1758,4 @@ Fixed memory management issue - 368
 Fixed typo in documentation - update 21
 Fixed memory management issue - update 49
 Code cleanup and formatting - build 551
+Updated dependencies to latest versions - update 38
