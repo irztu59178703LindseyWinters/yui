@@ -1756,3 +1756,4 @@ Added detailed comments for clarity - update 18
 Fixed memory management issue - v5.7.2
 Fixed memory management issue - 368
 Fixed typo in documentation - update 21
+Fixed memory management issue - update 49
