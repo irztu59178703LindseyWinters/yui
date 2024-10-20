@@ -1752,3 +1752,4 @@ Fixed memory management issue - update 37
 Fixed critical bug in main module
 Fixed critical bug in main module - build 351
 Added new feature for better user experience - update 9
+Added detailed comments for clarity - update 18
