@@ -798,3 +798,4 @@ Updated configuration settings - 750
 Updated version number - build 375
 Updated version number - update 21
 Fixed critical bug in main module
+Fixed critical bug in main module - v9.6.0
