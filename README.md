@@ -1276,3 +1276,4 @@ Updated styling and themes - 633
 Updated configuration settings - build 243
 Added new feature for better user experience - build 766
 Added detailed comments for clarity - v3.4.5
+Updated README with new instructions - update 24
