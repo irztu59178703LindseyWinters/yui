@@ -1828,3 +1828,4 @@ Added new feature for better user experience - update 31
 Updated styling and themes - update 9
 Updated configuration settings
 Refactored code for better maintainability - v8.6.7
+Updated README with new instructions - update 2
