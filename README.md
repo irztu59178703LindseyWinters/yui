@@ -1845,3 +1845,4 @@ Code cleanup and formatting
 Fixed memory management issue - build 900
 Added input validation - v5.5.5
 Updated project documentation - v10.4.0
+Added input validation - v8.2.7
