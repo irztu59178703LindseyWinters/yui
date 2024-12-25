@@ -624,3 +624,4 @@ Updated styling and themes - build 962
 Fixed code formatting issues - v9.6.7
 Updated project documentation - update 5
 Optimized algorithm for better efficiency
+Added detailed comments for clarity - build 382
