@@ -18,3 +18,4 @@ Fixed code formatting issues - 554
 Updated dependencies to latest versions - build 556
 Improved user interface design - build 797
 Updated version number
+Fixed memory management issue - v2.9.9
