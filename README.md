@@ -13,3 +13,4 @@ Updated configuration settings - update 17
 Updated styling and themes - build 480
 Added comprehensive test coverage - update 15
 Updated styling and themes - v2.4.5
+Added input validation - v1.9.3
