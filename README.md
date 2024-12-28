@@ -16,3 +16,4 @@ Updated styling and themes - v2.4.5
 Added input validation - v1.9.3
 Fixed code formatting issues - 554
 Updated dependencies to latest versions - build 556
+Improved user interface design - build 797
