@@ -1213,3 +1213,4 @@ Updated styling and themes - update 11
 Refactored code for better maintainability - 172
 Refactored code for better maintainability - v6.8.5
 Added input validation - build 943
+Updated README with new instructions - v2.4.7
