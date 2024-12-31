@@ -1216,3 +1216,4 @@ Added input validation - build 943
 Updated README with new instructions - v2.4.7
 Fixed code formatting issues - 112
 Optimized algorithm for better efficiency - 17
+Added detailed comments for clarity - v7.3.0
