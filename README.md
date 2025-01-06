@@ -1124,3 +1124,4 @@ Updated version number - 84
 Added proper error handling
 Fixed code formatting issues - update 36
 Fixed critical bug in main module - v10.7.3
+Added detailed comments for clarity
