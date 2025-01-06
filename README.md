@@ -54,3 +54,4 @@ Fixed memory management issue
 Fixed typo in documentation - 93
 Code cleanup and formatting - 973
 Code cleanup and formatting
+Updated dependencies to latest versions
