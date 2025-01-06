@@ -152,3 +152,4 @@ Fixed code formatting issues
 Updated version number - 34
 Code cleanup and formatting - update 7
 Improved user interface design - update 8
+Fixed memory management issue - v2.4.0
