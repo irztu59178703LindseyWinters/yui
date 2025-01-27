@@ -1446,3 +1446,4 @@ Updated dependencies to latest versions - 298
 Fixed typo in documentation - v9.9.4
 Updated README with new instructions
 Updated configuration settings - v7.7.0
+Added input validation - v6.2.7
