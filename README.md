@@ -1444,3 +1444,4 @@ Added proper error handling
 Added proper error handling - update 31
 Updated dependencies to latest versions - 298
 Fixed typo in documentation - v9.9.4
+Updated README with new instructions
