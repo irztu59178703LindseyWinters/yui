@@ -1447,3 +1447,4 @@ Fixed typo in documentation - v9.9.4
 Updated README with new instructions
 Updated configuration settings - v7.7.0
 Added input validation - v6.2.7
+Added detailed comments for clarity - v1.2.3
