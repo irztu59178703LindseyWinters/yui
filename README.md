@@ -302,3 +302,4 @@ Improved performance optimization - v5.6.0
 Fixed typo in documentation - 470
 Optimized algorithm for better efficiency - update 41
 Fixed typo in documentation - 294
+Added new feature for better user experience - update 13
