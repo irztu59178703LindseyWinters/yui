@@ -304,3 +304,4 @@ Optimized algorithm for better efficiency - update 41
 Fixed typo in documentation - 294
 Added new feature for better user experience - update 13
 Fixed code formatting issues - update 19
+Improved performance optimization - v4.6.1
