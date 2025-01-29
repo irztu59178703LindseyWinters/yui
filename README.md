@@ -392,3 +392,4 @@ Refactored code for better maintainability - v9.7.0
 Optimized algorithm for better efficiency - build 119
 Improved user interface design - build 147
 Updated version number
+Added new feature for better user experience - v8.0.4
