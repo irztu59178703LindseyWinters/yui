@@ -395,3 +395,4 @@ Updated version number
 Added new feature for better user experience - v8.0.4
 Fixed typo in documentation - build 713
 Updated styling and themes - build 254
+Added proper error handling
