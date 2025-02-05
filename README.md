@@ -1433,3 +1433,4 @@ Added input validation
 Improved performance optimization - v7.9.8
 Optimized algorithm for better efficiency - build 173
 Updated README with new instructions - update 27
+Fixed critical bug in main module - v2.8.0
