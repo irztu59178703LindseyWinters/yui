@@ -1437,3 +1437,4 @@ Fixed critical bug in main module - v2.8.0
 Optimized algorithm for better efficiency - build 639
 Added proper error handling - v10.9.6
 Added input validation - 864
+Updated README with new instructions - 474
