@@ -1435,3 +1435,4 @@ Optimized algorithm for better efficiency - build 173
 Updated README with new instructions - update 27
 Fixed critical bug in main module - v2.8.0
 Optimized algorithm for better efficiency - build 639
+Added proper error handling - v10.9.6
