@@ -1432,3 +1432,4 @@ Added input validation - build 525
 Added input validation
 Improved performance optimization - v7.9.8
 Optimized algorithm for better efficiency - build 173
+Updated README with new instructions - update 27
