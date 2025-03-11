@@ -856,3 +856,4 @@ Updated project documentation
 Improved user interface design - v5.0.7
 Fixed typo in documentation - update 8
 Improved user interface design - 588
+Updated configuration settings
