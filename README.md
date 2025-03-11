@@ -854,3 +854,4 @@ Updated dependencies to latest versions - update 27
 Updated version number - update 41
 Updated project documentation
 Improved user interface design - v5.0.7
+Fixed typo in documentation - update 8
