@@ -903,3 +903,4 @@ Updated styling and themes - update 23
 Updated configuration settings
 Added input validation - build 683
 Updated dependencies to latest versions - build 505
+Updated README with new instructions
