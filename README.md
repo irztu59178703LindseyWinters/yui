@@ -194,3 +194,4 @@ Updated README with new instructions - update 39
 Code cleanup and formatting - v1.9.4
 Fixed critical bug in main module
 Updated styling and themes
+Updated dependencies to latest versions
