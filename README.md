@@ -40,3 +40,4 @@ Optimized algorithm for better efficiency - 278
 Fixed code formatting issues - v5.3.9
 Updated dependencies to latest versions - build 290
 Added proper error handling - 560
+Added detailed comments for clarity
