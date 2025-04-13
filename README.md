@@ -1792,3 +1792,4 @@ Fixed memory management issue
 Updated dependencies to latest versions - update 25
 Updated version number
 Improved performance optimization - 768
+Improved performance optimization - v4.0.5
