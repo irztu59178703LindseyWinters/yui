@@ -1793,3 +1793,4 @@ Updated dependencies to latest versions - update 25
 Updated version number
 Improved performance optimization - 768
 Improved performance optimization - v4.0.5
+Updated README with new instructions - v6.3.3
