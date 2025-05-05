@@ -573,3 +573,4 @@ Updated styling and themes - build 544
 Fixed critical bug in main module - v9.6.5
 Fixed typo in documentation - v2.2.5
 Fixed critical bug in main module - 607
+Updated README with new instructions - 487
