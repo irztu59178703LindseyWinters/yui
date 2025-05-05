@@ -571,3 +571,4 @@ Updated styling and themes - v3.4.6
 Fixed memory management issue - build 876
 Updated styling and themes - build 544
 Fixed critical bug in main module - v9.6.5
+Fixed typo in documentation - v2.2.5
