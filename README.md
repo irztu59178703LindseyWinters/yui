@@ -1783,3 +1783,4 @@ Added input validation - v1.6.9
 Improved user interface design - 859
 Refactored code for better maintainability - 139
 Refactored code for better maintainability - 541
+Added detailed comments for clarity - v5.3.2
