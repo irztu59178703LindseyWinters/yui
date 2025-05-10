@@ -1028,3 +1028,4 @@ Updated project documentation - v4.8.6
 Updated version number - update 50
 Fixed typo in documentation - build 239
 Code cleanup and formatting - 166
+Updated README with new instructions - update 36
