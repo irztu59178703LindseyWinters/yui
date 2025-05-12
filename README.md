@@ -961,3 +961,4 @@ Updated version number
 Improved user interface design - v5.9.4
 Code cleanup and formatting - v3.0.3
 Updated project documentation
+Fixed memory management issue - 757
