@@ -274,3 +274,4 @@ Updated project documentation - 458
 Updated README with new instructions - v3.8.8
 Updated project documentation - v3.0.4
 Optimized algorithm for better efficiency - update 23
+Fixed typo in documentation - update 50
