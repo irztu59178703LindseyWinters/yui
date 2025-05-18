@@ -271,3 +271,4 @@ Added comprehensive test coverage - build 656
 Added comprehensive test coverage - update 9
 Fixed critical bug in main module - build 900
 Updated project documentation - 458
+Updated README with new instructions - v3.8.8
