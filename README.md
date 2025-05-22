@@ -1067,3 +1067,4 @@ Updated project documentation - update 28
 Updated project documentation - v2.0.3
 Updated dependencies to latest versions
 Refactored code for better maintainability - 273
+Added detailed comments for clarity - update 3
