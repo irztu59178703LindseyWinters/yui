@@ -1084,3 +1084,4 @@ Added new feature for better user experience - build 153
 Added new feature for better user experience
 Updated version number
 Added new feature for better user experience - v3.6.4
+Improved user interface design - 293
