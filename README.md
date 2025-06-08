@@ -1086,3 +1086,4 @@ Updated version number
 Added new feature for better user experience - v3.6.4
 Improved user interface design - 293
 Improved performance optimization - v5.8.9
+Improved performance optimization - update 27
