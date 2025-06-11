@@ -1281,3 +1281,4 @@ Added new feature for better user experience
 Updated version number
 Fixed typo in documentation
 Updated styling and themes
+Refactored code for better maintainability - v6.1.6
