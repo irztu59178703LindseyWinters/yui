@@ -1279,3 +1279,4 @@ Added detailed comments for clarity - v3.4.5
 Updated README with new instructions - update 24
 Added new feature for better user experience
 Updated version number
+Fixed typo in documentation
