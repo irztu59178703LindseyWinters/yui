@@ -1280,3 +1280,4 @@ Updated README with new instructions - update 24
 Added new feature for better user experience
 Updated version number
 Fixed typo in documentation
+Updated styling and themes
