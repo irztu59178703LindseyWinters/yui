@@ -511,3 +511,4 @@ Added new feature for better user experience
 Updated styling and themes - 258
 Updated README with new instructions - update 6
 Fixed critical bug in main module
+Added new feature for better user experience
