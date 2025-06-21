@@ -1427,3 +1427,4 @@ Fixed memory management issue - build 269
 Fixed critical bug in main module - 104
 Optimized algorithm for better efficiency - update 35
 Fixed critical bug in main module - build 285
+Updated README with new instructions - update 25
