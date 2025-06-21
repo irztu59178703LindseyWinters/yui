@@ -1150,3 +1150,4 @@ Added proper error handling - v7.9.4
 Added comprehensive test coverage - 274
 Added proper error handling - build 172
 Added detailed comments for clarity - 75
+Fixed memory management issue - v8.7.8
