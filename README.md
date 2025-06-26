@@ -340,3 +340,4 @@ Added new feature for better user experience - update 8
 Added input validation
 Added new feature for better user experience
 Updated version number - v8.7.5
+Updated configuration settings - build 335
