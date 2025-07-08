@@ -1494,3 +1494,4 @@ Added proper error handling - update 31
 Fixed critical bug in main module - v3.8.8
 Fixed critical bug in main module - 832
 Code cleanup and formatting - 944
+Fixed typo in documentation
