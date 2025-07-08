@@ -1495,3 +1495,4 @@ Fixed critical bug in main module - v3.8.8
 Fixed critical bug in main module - 832
 Code cleanup and formatting - 944
 Fixed typo in documentation
+Added new feature for better user experience - v4.7.2
