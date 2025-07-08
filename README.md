@@ -1497,3 +1497,4 @@ Code cleanup and formatting - 944
 Fixed typo in documentation
 Added new feature for better user experience - v4.7.2
 Updated configuration settings
+Fixed typo in documentation
