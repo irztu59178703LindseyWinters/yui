@@ -875,3 +875,4 @@ Fixed critical bug in main module - v7.9.9
 Fixed critical bug in main module - v5.5.0
 Refactored code for better maintainability
 Updated project documentation
+Fixed typo in documentation - 131
