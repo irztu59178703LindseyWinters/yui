@@ -877,3 +877,4 @@ Refactored code for better maintainability
 Updated project documentation
 Fixed typo in documentation - 131
 Updated styling and themes
+Added new feature for better user experience
