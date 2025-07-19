@@ -100,3 +100,4 @@ Code cleanup and formatting - v4.8.1
 Added new feature for better user experience - update 17
 Fixed memory management issue - update 38
 Added input validation - build 605
+Updated README with new instructions - build 953
