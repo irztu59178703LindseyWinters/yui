@@ -108,3 +108,4 @@ Updated dependencies to latest versions - update 48
 Updated project documentation - build 398
 Added input validation - build 954
 Added detailed comments for clarity - v1.3.6
+Fixed memory management issue - v9.2.3
