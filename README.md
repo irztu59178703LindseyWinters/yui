@@ -1674,3 +1674,4 @@ Fixed code formatting issues - build 511
 Fixed code formatting issues - 302
 Updated configuration settings
 Updated version number - v7.1.0
+Fixed critical bug in main module
