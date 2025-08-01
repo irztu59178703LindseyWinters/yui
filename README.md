@@ -601,3 +601,4 @@ Optimized algorithm for better efficiency - v8.6.5
 Updated styling and themes
 Added input validation - 992
 Added input validation - 970
+Code cleanup and formatting - update 18
