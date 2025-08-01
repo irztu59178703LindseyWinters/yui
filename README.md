@@ -605,3 +605,4 @@ Code cleanup and formatting - update 18
 Updated README with new instructions - 615
 Added proper error handling
 Added new feature for better user experience
+Added detailed comments for clarity - v5.3.4
