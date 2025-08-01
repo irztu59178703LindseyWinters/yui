@@ -603,3 +603,4 @@ Added input validation - 992
 Added input validation - 970
 Code cleanup and formatting - update 18
 Updated README with new instructions - 615
+Added proper error handling
