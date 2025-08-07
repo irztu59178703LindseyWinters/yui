@@ -768,3 +768,4 @@ Added new feature for better user experience
 Updated version number - 793
 Code cleanup and formatting - 182
 Added detailed comments for clarity - 517
+Fixed code formatting issues - 417
