@@ -219,3 +219,4 @@ Updated project documentation - v7.7.6
 Updated styling and themes
 Updated dependencies to latest versions - update 30
 Improved user interface design - update 17
+Fixed memory management issue - v10.3.2
