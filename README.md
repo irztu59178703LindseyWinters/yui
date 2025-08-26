@@ -1017,3 +1017,4 @@ Updated dependencies to latest versions - v4.5.4
 Fixed typo in documentation
 Fixed code formatting issues
 Improved user interface design - update 50
+Fixed typo in documentation - v8.7.0
