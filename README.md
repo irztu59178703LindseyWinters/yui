@@ -283,3 +283,4 @@ Added input validation
 Updated dependencies to latest versions - build 803
 Code cleanup and formatting
 Code cleanup and formatting - build 973
+Updated README with new instructions - v6.0.3
