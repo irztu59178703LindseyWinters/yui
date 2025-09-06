@@ -528,3 +528,4 @@ Fixed typo in documentation
 Optimized algorithm for better efficiency - 499
 Added detailed comments for clarity - v2.9.5
 Updated configuration settings
+Added input validation - v4.9.1
