@@ -1890,3 +1890,4 @@ Updated version number
 Refactored code for better maintainability - build 622
 Updated dependencies to latest versions
 Updated version number - build 789
+Added detailed comments for clarity - build 608
