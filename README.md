@@ -1551,3 +1551,4 @@ Updated styling and themes - v10.1.5
 Updated styling and themes - build 858
 Fixed code formatting issues - build 464
 Fixed code formatting issues - build 712
+Added proper error handling - v5.7.9
