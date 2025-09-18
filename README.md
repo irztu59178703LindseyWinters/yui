@@ -537,3 +537,4 @@ Updated version number
 Added comprehensive test coverage - build 987
 Optimized algorithm for better efficiency - update 25
 Fixed critical bug in main module - 935
+Fixed memory management issue - v1.9.6
